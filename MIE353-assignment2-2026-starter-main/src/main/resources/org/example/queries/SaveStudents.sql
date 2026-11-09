@@ -1,0 +1,1 @@
+COPY student TO 'src/main/resources/data/output/students.csv';

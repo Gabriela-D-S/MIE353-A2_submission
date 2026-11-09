@@ -1,0 +1,7 @@
+{
+  "url": "jdbc:duckdb:",
+  "isDefault": true,
+  "schemaPackage": "org.example.schema",
+  "dbDdl" : "/config/cms-ddl.sql",
+  "inMemory" : true
+}
