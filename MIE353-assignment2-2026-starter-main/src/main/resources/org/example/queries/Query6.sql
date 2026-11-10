@@ -8,6 +8,8 @@ COPY (
         WHERE tr.studentId = s.studentId
           AND c.courseName = 'Data Modelling'
     )
+    -- This also requires a grade of 90 or above in a course other than Data Modelling.
+    -- In SQL, <> means "not equal to".
       AND EXISTS (
         SELECT 1
         FROM transcript tr

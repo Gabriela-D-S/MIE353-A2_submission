@@ -46,6 +46,7 @@ public class Main {
         });
         CMS.commit();
 
+        //function calls in the main java file
         saveGradCourses();
         runQuery1();
         runQuery2();
@@ -93,6 +94,7 @@ public class Main {
     CMS.commit();
   }
 
+  //methods to run the created queries 
   public static void saveGradCourses() throws SQLException {
     CMS.addSqlChange(ctx -> {
       SaveGradCourses.execute(ctx);
