@@ -47,11 +47,14 @@ public class Main {
         CMS.commit();
 
         saveGradCourses();
-        
-        // EXTRA MAIN FUNCTION CALLS CAN GO BELOW:
-
-
-        
+        runQuery1();
+        runQuery2();
+        runQuery3();
+        runQuery4();
+        runQuery5();
+        runQuery6();
+        runQuery7();
+        runQuery8();
       }
       catch (Exception e) {
         e.printStackTrace();
@@ -93,6 +96,62 @@ public class Main {
   public static void saveGradCourses() throws SQLException {
     CMS.addSqlChange(ctx -> {
       SaveGradCourses.execute(ctx);
+    });
+    CMS.commit();
+  }
+
+  public static void runQuery1() throws SQLException {
+    CMS.addSqlChange(ctx -> {
+      Query1.execute(ctx);
+    });
+    CMS.commit();
+  }
+
+  public static void runQuery2() throws SQLException {
+    CMS.addSqlChange(ctx -> {
+      Query2.execute(ctx);
+    });
+    CMS.commit();
+  }
+
+  public static void runQuery3() throws SQLException {
+    CMS.addSqlChange(ctx -> {
+      Query3.execute(ctx);
+    });
+    CMS.commit();
+  }
+
+  public static void runQuery4() throws SQLException {
+    CMS.addSqlChange(ctx -> {
+      Query4.execute(ctx);
+    });
+    CMS.commit();
+  }
+
+  public static void runQuery5() throws SQLException {
+    CMS.addSqlChange(ctx -> {
+      Query5.execute(ctx);
+    });
+    CMS.commit();
+  }
+
+  public static void runQuery6() throws SQLException {
+    CMS.addSqlChange(ctx -> {
+      Query6.execute(ctx);
+    });
+    CMS.commit();
+  }
+
+  public static void runQuery7() throws SQLException {
+    CMS.addSqlChange(ctx -> {
+      Query7.execute(ctx);
+    });
+    CMS.commit();
+  }
+
+  public static void runQuery8() throws SQLException {
+    CMS.addSqlChange(ctx -> {
+      Query8.execute(ctx);
     });
     CMS.commit();
   }

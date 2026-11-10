@@ -1,0 +1,16 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Run MIE353 Java application",
+			"type": "shell",
+			"command": "bash",
+			"args": [
+				"-lc",
+				"cd /workspaces/MIE353-A2_submission/MIE353-assignment2-2026-starter-main && export JAVA_HOME=/usr/local/sdkman/candidates/java/21.0.13.0+2-ms && export PATH=\"$JAVA_HOME/bin:$PATH\" && mvn clean compile exec:java -Dexec.mainClass=org.example.Main"
+			],
+			"isBackground": false,
+			"problemMatcher": []
+		}
+	]
+}
