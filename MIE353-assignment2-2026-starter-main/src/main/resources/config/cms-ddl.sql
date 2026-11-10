@@ -2,7 +2,8 @@
 CREATE TABLE course (
     courseId   VARCHAR(20) PRIMARY KEY,
     courseName VARCHAR(255) NOT NULL,
-    gradCourse 
+    gradCourse INT NOT NULL CHECK (gradCourse IN (0, 1, 2))
+    --adding the values that gradCourse can take on
 );
 
 -- Schema for professors.csv

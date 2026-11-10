@@ -1,81 +1,84 @@
 ﻿courseId,courseName, gradCourse
-civ230h1s,Analytical Methods
-civ232h1f,Probability
-ece122h1f,Physics
-ece1514h1f,Deep Learning
-ece255h1s,Programming Algorithms
-ece300h1s,Circuits
-ece322h1s,Circuits II
-ece330h1f,Statistics
-edm304h1s,Prevent.Eng.&Soc.Dev
-mie100h1s,Dynamics
-mie191h1s,Introduction To Mechanical And Industrial Engineering
-mie210h1s,Thermodynamics
-mie222h1s,Mech.Of Solids I
-mie230h1f,Engineering Analysis
-mie231h1f,Prob.& Stat.For Eng.
-mie235h1f,Algorithms Numerical Methods
-mie237h1s,Statistics And Design Of Experiment
-mie240h1f,Hum.Cent.Syst.Design
-mie241h1s,Eng.Design &Graphics
-mie253h1s,Data Modelling
-mie258h1f,Engineering Economics And Accounting
-mie262h1s,Operational Res.I
-mie265h1f,Introduction To Systems Engineering
-mie270h1f,Fluid Mechanics I
-mie301h1f,Kine.&Dynam.Of Mach.
-mie302h1s,Vibrations
-mie310h1f,Thermodynamics
-mie311h1s,Ther.Ener.Conversion
-mie312h1f,Fluid Mechanics I
-mie313h1s,Heat & Mass Transfer
-mie320h1s,Mech. Of Solids Ii
-mie321h1s,Manufacturing Engin.
-mie337h1f,Stat.& Exper. Design
-mie342h1f,Cir.With Appl.To Mech.Eng.Sys.
-mie343h1f,Indust.Ergo.& Workpl
-mie344h1s,Ergo.Des.Of Info.Sys
-mie346h1s,Anal.&Digital Electr.For Mech.
-mie347h1s,Electromechanical Energy Conv.
-mie350h1f,Des.&Ana.Of Info.Sys
-mie353h1s,Data Modelling
-mie354h1s,Info.Sys.Infrastructure I
-mie355h1f,Software Eng.& Project Manag.
-mie358h1f,Eng.Econo.& Account.
-mie359h1s,Organization Design
-mie360h1f,Sys.Modelling & Sim.
-mie363h1s,Resource &Production Modelling
-mie364h1s,Met.Of Qual.Cont.Imp
-mie365h1s,Operat. Research Ii
-mie372h1f,Control Systems
-mie373h1s,Resource & Production Systems
-mie374h1s,Eco.Ana.& Dec.Making
-mie404h1f,Control Systems I
-mie414h1f,App. Fluid Mechanics
-mie415h1s,Design For The Environment
-mie418h1s,Fluid Mechanics Ii
-mie422h1s,Automa.Manufacturing
-mie439h1s,Biomechanical Engin.
-mie440h1f,Mechanical Design: Theory And Methodology
-mie441h1s,Comput. Aided Design
-mie442h1s,Machine Design
-mie444h1f,Mechatronics Prin.
-mie448h1f,Eng.Psychology &Human Perform.
-mie449h1s,H/Com.Int.Des.Com.Sy
-mie451h1f,Decision Support Sys
-mie456h1f,Info.Sys.Infrastructure Ii
-mie457h1f,Knowledge Modelling & Manage.
-mie460h1s,Manufact.& Prod.Sys.
-mie467h1f,Adv.Operational Res.
-mie468h1s,Facility Planning
-mie469h1s,Reliab.& Maintainability Eng.
-mie496h1f,Thesis/Design Proj.
-mie496y1f,Thesis/Design Proj.
-mie496y1y,Thesis/Design Proj.
-mie512h1f,Air Poll.Form.& Con.
-mie514h1s,Atmospher.Pollution
-mie515h1s,Alternative Energy Systems
-mie540h1s,Product Design
-mie561h1s,Healthcare Systems
-mie562h1f,Scheduling
-mie566h1f,Decision Analysis
+civ230h1s,Analytical Methods, 0
+civ232h1f,Probability, 0
+ece122h1f,Physics, 0
+ece1514h1f,Deep Learning, 1
+ece255h1s,Programming Algorithms, 0
+ece300h1s,Circuits, 0
+ece322h1s,Circuits II, 0
+ece330h1f,Statistics, 0
+edm304h1s,Prevent.Eng.&Soc.Dev, 0
+mie100h1s,Dynamics, 0
+mie191h1s,Introduction To Mechanical And Industrial Engineering, 0
+mie210h1s,Thermodynamics, 0
+mie222h1s,Mech.Of Solids I, 0
+mie230h1f,Engineering Analysis, 0
+mie231h1f,Prob.& Stat.For Eng., 0
+mie235h1f,Algorithms Numerical Methods, 0
+mie237h1s,Statistics And Design Of Experiment, 0
+mie240h1f,Hum.Cent.Syst.Design, 0
+mie241h1s,Eng.Design &Graphics, 0
+mie253h1s,Data Modelling, 0
+mie258h1f,Engineering Economics And Accounting, 0
+mie262h1s,Operational Res.I, 0
+mie265h1f,Introduction To Systems Engineering, 0
+mie270h1f,Fluid Mechanics I, 0
+mie301h1f,Kine.&Dynam.Of Mach., 0
+mie302h1s,Vibrations, 0
+mie310h1f,Thermodynamics, 0
+mie311h1s,Ther.Ener.Conversion, 0
+mie312h1f,Fluid Mechanics I, 0
+mie313h1s,Heat & Mass Transfer, 0
+mie320h1s,Mech. Of Solids Ii, 0
+mie321h1s,Manufacturing Engin., 0
+mie337h1f,Stat.& Exper. Design, 0
+mie342h1f,Cir.With Appl.To Mech.Eng.Sys., 0
+mie343h1f,Indust.Ergo.& Workpl, 0
+mie344h1s,Ergo.Des.Of Info.Sys, 0
+mie346h1s,Anal.&Digital Electr.For Mech., 0
+mie347h1s,Electromechanical Energy Conv., 0
+mie350h1f,Des.&Ana.Of Info.Sys, 0
+mie353h1s,Data Modelling, 0
+mie354h1s,Info.Sys.Infrastructure I, 0
+mie355h1f,Software Eng.& Project Manag., 0
+mie358h1f,Eng.Econo.& Account., 0
+mie359h1s,Organization Design, 0
+mie360h1f,Sys.Modelling & Sim., 0
+mie363h1s,Resource &Production Modelling, 0
+mie364h1s,Met.Of Qual.Cont.Imp, 0
+mie365h1s,Operat. Research Ii, 0
+mie372h1f,Control Systems, 0
+mie373h1s,Resource & Production Systems, 0
+mie374h1s,Eco.Ana.& Dec.Making, 0
+mie404h1f,Control Systems I, 0
+mie414h1f,App. Fluid Mechanics, 0
+mie415h1s,Design For The Environment, 0
+mie418h1s,Fluid Mechanics Ii, 0
+mie422h1s,Automa.Manufacturing, 0
+mie439h1s,Biomechanical Engin., 0
+mie440h1f,Mechanical Design: Theory And Methodology, 0
+mie441h1s,Comput. Aided Design, 0
+mie442h1s,Machine Design, 0
+mie444h1f,Mechatronics Prin., 0
+mie448h1f,Eng.Psychology &Human Perform., 0
+mie449h1s,H/Com.Int.Des.Com.Sy, 0
+mie451h1f,Decision Support Sys, 0
+mie456h1f,Info.Sys.Infrastructure Ii, 0
+mie457h1f,Knowledge Modelling & Manage., 0
+mie460h1s,Manufact.& Prod.Sys., 0
+mie467h1f,Adv.Operational Res., 0
+mie468h1s,Facility Planning, 0
+mie469h1s,Reliab.& Maintainability Eng., 0
+mie496h1f,Thesis/Design Proj., 0
+mie496y1f,Thesis/Design Proj., 0
+mie496y1y,Thesis/Design Proj., 0
+mie512h1f,Air Poll.Form.& Con., 2
+mie514h1s,Atmospher.Pollution, 2
+mie515h1s,Alternative Energy Systems, 2
+mie540h1s,Product Design, 2
+mie561h1s,Healthcare Systems, 2
+mie562h1f,Scheduling, 2
+mie566h1f,Decision Analysis, 2
+mie1501h,Knowledge Modelling and Management,1
+mie1520h,Learning With Graphs and Sequences,1
+mie1517h,Introduction to Deep Learning,1
