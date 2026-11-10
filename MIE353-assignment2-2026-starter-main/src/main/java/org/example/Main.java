@@ -45,6 +45,8 @@ public class Main {
           SaveStudents.execute(ctx);
         });
         CMS.commit();
+
+        saveGradCourses();
         
         // EXTRA MAIN FUNCTION CALLS CAN GO BELOW:
 
@@ -84,6 +86,13 @@ public class Main {
   public static void loadCourseData() throws SQLException {
     CMS.addSqlChange(ctx -> {
       LoadCourses.execute(ctx);
+    });
+    CMS.commit();
+  }
+
+  public static void saveGradCourses() throws SQLException {
+    CMS.addSqlChange(ctx -> {
+      SaveGradCourses.execute(ctx);
     });
     CMS.commit();
   }
